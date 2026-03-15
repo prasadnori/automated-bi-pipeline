@@ -23,6 +23,7 @@ automated-bi-pipeline
 ├── data_reader.py
 ├── tables.py
 ├── charts.py
+├── .env
 ├── Visadataset.csv
 
 # requirements
