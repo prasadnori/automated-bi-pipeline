@@ -1,0 +1,16 @@
+{
+  "dataset": "UCI Adult training data (normalized copy)",
+  "source": "https://archive.ics.uci.edu/dataset/2/adult",
+  "preprocessing": "Literal '?' markers replaced with missing values; rows and all other values retained.",
+  "rows": 32561,
+  "columns": 15,
+  "numeric_columns": 6,
+  "categorical_columns": 9,
+  "missing_cells_after_normalization": 4262,
+  "duplicate_rows": 24,
+  "column_missing_counts": {
+    "workclass": 1836,
+    "occupation": 1843,
+    "native_country": 583
+  }
+}
