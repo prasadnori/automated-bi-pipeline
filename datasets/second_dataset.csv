@@ -1,0 +1,9 @@
+department,age,salary,performance_rating,region
+Sales,32,72000,4,North
+Engineering,41,110000,5,West
+Sales,,68000,3,East
+Support,29,,4,South
+Engineering,37,98000,4,West
+Support,45,64000,,North
+Sales,32,72000,4,North
+Marketing,35,83000,3,East
